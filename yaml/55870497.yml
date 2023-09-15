@@ -1,0 +1,31 @@
+---
+id: 55870497
+name: Burning Bamboo Sword
+type: Spell Card
+frameType: spell
+desc: 'If you activate a "Bamboo Sword" card while this card is already face-up in
+  your Spell & Trap Zone: You can skip your opponent''s next Main Phase 1.'
+race: Continuous
+archetype: Bamboo Sword
+card_sets:
+- set_name: 2018 Mega-Tin Mega Pack
+  set_code: MP18-EN146
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.04'
+- set_name: Circuit Break
+  set_code: CIBR-EN066
+  set_rarity: Short Print
+  set_rarity_code: "(SP)"
+  set_price: '1.4'
+card_images:
+- id: 55870497
+  image_url: https://images.ygoprodeck.com/images/cards/55870497.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/55870497.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/55870497.jpg
+card_prices:
+- cardmarket_price: '0.10'
+  tcgplayer_price: '0.20'
+  ebay_price: '0.99'
+  amazon_price: '0.86'
+  coolstuffinc_price: '0.25'
